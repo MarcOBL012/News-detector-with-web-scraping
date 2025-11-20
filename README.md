@@ -30,3 +30,26 @@ To run this project, you need to install the dependencies. You can do this by ex
 
 ```bash
 pip install newspaper3k pandas matplotlib scipy numpy
+```
+## 🚀 Usage
+
+1. **News Extraction**
+To collect new news articles from the configured sources:
+
+```Bash
+
+python Noticias22.py
+```
+2. **Reference Visualization**
+To view how letters are distributed across the base sections:
+
+```Bash
+
+python hist.py
+
+```
+3. **Classification and Comparison**
+To execute the classification algorithm and view comparative charts between a news article and the sections:
+```Bash
+python barras1.py
+```
