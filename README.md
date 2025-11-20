@@ -53,3 +53,7 @@ To execute the classification algorithm and view comparative charts between a ne
 ```Bash
 python barras1.py
 ```
+## 📬 Contact
+If you use or extend this project, please add a note in the README or contact:
+
+Marco Obispo — marco.obispo.l@uni.pe
